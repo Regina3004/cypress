@@ -26,7 +26,7 @@
 ![image](https://raw.githubusercontent.com/Regina3004/cypress/refs/heads/main/userdata.png)
 
 4. Каждая страница описана в формате объекта с локаторами
-![image](https://raw.githubusercontent.com/German-D/new_cypress/main/static/locators.png)
+![image](https://raw.githubusercontent.com/Regina3004/cypress/refs/heads/main/cylocators.png)
 
 ## Локальный запуск тестов (из терминала)
 1. Скачать проект
